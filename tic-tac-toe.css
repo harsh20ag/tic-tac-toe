@@ -17,7 +17,7 @@ body {
     width: 100vw;
     background-color: rgba(0, 0, 0, 0.493);
     color: white;
-    background-image: url("/images/ta.png");
+    background-image: url("ta.png");
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
