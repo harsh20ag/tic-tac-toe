@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;600;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.493);
+    color: white;
+    background-image: url("/images/ta.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.all {
+    width: 45%;
+
+}
+
+.name {
+    font-weight: 400;
+    font-size: 4.5em;
+    width: 100%;
+    color: #d8ab4e;
+    text-align: center;
+    font-family: 'DynaPuff';
+}
+
+
+
+.gamebox {
+    border: 2px solid #ffde22;
+    width: 100%;
+    margin: 5% 0;
+    aspect-ratio: 1/0.6;
+
+}
+
+
+
+tr {
+    height: 33%;
+}
+
+td {
+    border: 2px solid #ffde22;
+    color: white;
+    width: 33%;
+    font-weight: bold;
+    text-align: center;
+    font-size: 4.2em;
+    background-color: #ffde22;
+
+}
+
+.lastrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+.players {
+    width: 53%;
+    text-align: center;
+    border: 1px solid white;
+    font-size: 1.6em;
+    height: 20%;
+    cursor: pointer;
+    padding: 3px;
+    border-radius: 5%;
+    font-family: 'DynaPuff';
+    font-weight: 400;
+}
+
+.single {
+    background-color: #d8ab4e;
+
+
+}
+
+.multi {
+    background-color: #d8ab4e;
+}
+
+.reset {
+    text-align: center;
+
+
+
+}
+
+.refresh {
+    width: 17%;
+    cursor: pointer;
+
+
+
+}
+
+.mousechange {
+    cursor: pointer;
+}
+
+.fontstyle {
+    font-family: 'DynaPuff';
+    font-weight: 400;
+
+}
+
+@media (max-width:828px) {
+    .players
+    {
+        font-size: 1.5em;
+    }
+    td
+    {
+        font-size: 3.2em;
+    }
+   
+}
+@media (max-width:700px) {
+    .name
+    {
+        font-size: 3.3em;
+    }
+    .players
+    {
+        font-size: 1em;
+    }
+    .refresh
+    {
+        max-width: 16%;
+    }
+}
+@media (max-width:537px) {
+    .players
+    {
+        font-size: 0.8em;
+    }
+    .refresh
+    {
+        max-width: 13%;
+    }
+}
+@media (max-width:518px) {
+    .name
+    {
+        font-size: 3.1em;
+    }
+}
+@media (max-width:700px) {
+    .all {
+
+        min-width: 85%;
+    }
+
+    .gamebox {
+        aspect-ratio: 1/0.6;
+    }
+
+    .refresh {
+        width: 25%;
+        cursor: pointer;
+
+
+
+    }
+}
+
+
+@media (min-width:700px) {
+    .all {
+
+        min-width: 90%;
+    }
+}
+
+@media (min-width:800px) {
+    .all {
+
+        min-width: 75%;
+    }
+}
+
+@media (min-width:1000px) {
+    .all {
+        min-width: 63%;
+
+    }
+}
+
+@media (min-width:1240px) {
+    .all {
+
+        min-width: 50%;
+    }
+}
+
+@media (min-width:1800px) {
+    .all {
+
+        min-width: 45%;
+    }
+}
+@media (max-width:499px)
+{
+    .all
+    {
+        min-width: 82%;
+    }
+    .gamebox
+    {
+        aspect-ratio: 1/0.7;
+    }
+    .name
+    {
+        font-size: 2.4em;
+    }
+    .players
+    {
+        font-size: 1em;
+    }
+    .refresh
+    {
+        min-width: 25%;
+    }
+    td
+    {
+        font-size: 2.3em;
+    }
+}
+@media (max-width:399px)
+{
+    .all
+    {
+        min-width: 82%;
+    }
+    .gamebox
+    {
+        aspect-ratio: 1/0.8;
+    }
+    .name
+    {
+        font-size: 1.8em;
+    }
+    .players
+    {
+        font-size: 0.7em;
+    }
+    .refresh
+    {
+        min-width: 21%;
+    }
+    td
+    {
+        font-size: 2em;
+    }
+}
+@media (max-width:299px)
+{
+    .all
+    {
+        min-width: 85%;
+    }
+    .gamebox
+    {
+       
+        aspect-ratio: 1;
+    }
+    .name
+    {
+        font-size: 0.8em;
+    }
+    .players
+    {
+        font-size: 0.5em;
+    }
+    .refresh
+    {
+        min-width: 20%;
+    }
+    td
+    {
+        font-size: 1em;
+    }
+}
