@@ -22,7 +22,7 @@ document.querySelector('.single').addEventListener('click', function () {
                         document.querySelector('#' + idcheck).style.opacity = "0.8";
                         setTimeout(function () {
                             document.querySelector('#' + idcheck).style.opacity = "1";
-                        }, 500);
+                        }, 300);
                         current = this.id;
                         turn++;
                         GameBegin();
@@ -62,7 +62,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#three').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#three').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#three').style.color = "blue";
                 document.querySelector('#three').classList.add('fontstyle');
                 turn++;
@@ -72,7 +72,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#one').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#one').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#one').style.color = "blue";
                 document.querySelector('#one').classList.add('fontstyle');
                 turn++;
@@ -82,7 +82,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#two').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#two').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#two').style.color = "blue";
                 document.querySelector('#two').classList.add('fontstyle');
                 turn++;
@@ -92,7 +92,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#six').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#six').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#six').style.color = "blue";
                 document.querySelector('#six').classList.add('fontstyle');
                 turn++;
@@ -102,7 +102,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#four').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#four').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#four').style.color = "blue";
                 document.querySelector('#four').classList.add('fontstyle');
                 turn++;
@@ -112,7 +112,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#five').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#five').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#five').style.color = "blue";
                 document.querySelector('#five').classList.add('fontstyle');
                 turn++;
@@ -122,7 +122,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#eight').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#eight').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#eight').style.color = "blue";
                 document.querySelector('#eight').classList.add('fontstyle');
                 turn++;
@@ -132,7 +132,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#four').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#four').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#four').style.color = "blue";
                 document.querySelector('#four').classList.add('fontstyle');
                 turn++;
@@ -142,7 +142,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#five').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#five').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#five').style.color = "blue";
                 document.querySelector('#five').classList.add('fontstyle');
                 turn++;
@@ -152,7 +152,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#six').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#six').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#six').style.color = "blue";
                 document.querySelector('#six').classList.add('fontstyle');
                 turn++;
@@ -162,7 +162,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#five').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#five').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#five').style.color = "blue";
                 document.querySelector('#five').classList.add('fontstyle');
                 turn++;
@@ -172,7 +172,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#five').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#five').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#five').style.color = "blue";
                 document.querySelector('#five').classList.add('fontstyle');
                 turn++;
@@ -182,7 +182,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#nine').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#nine').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#nine').style.color = "blue";
                 document.querySelector('#nine').classList.add('fontstyle');
                 turn++;
@@ -192,7 +192,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#seven').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#seven').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#seven').style.color = "blue";
                 document.querySelector('#seven').classList.add('fontstyle');
                 turn++;
@@ -202,7 +202,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#seven').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#seven').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#seven').style.color = "blue";
                 document.querySelector('#seven').classList.add('fontstyle');
                 turn++;
@@ -212,7 +212,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#one').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#one').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#one').style.color = "blue";
                 document.querySelector('#one').classList.add('fontstyle');
                 turn++;
@@ -222,7 +222,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#eight').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#eight').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#eight').style.color = "blue";
                 document.querySelector('#eight').classList.add('fontstyle');
                 turn++;
@@ -232,7 +232,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#two').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#two').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#two').style.color = "blue";
                 document.querySelector('#two').classList.add('fontstyle');
                 turn++;
@@ -242,7 +242,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#nine').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#nine').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#nine').style.color = "blue";
                 document.querySelector('#nine').classList.add('fontstyle');
                 turn++;
@@ -252,7 +252,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#three').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#three').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#three').style.color = "blue";
                 document.querySelector('#three').classList.add('fontstyle');
                 turn++;
@@ -262,7 +262,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#nine').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#nine').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#nine').style.color = "blue";
                 document.querySelector('#nine').classList.add('fontstyle');
                 turn++;
@@ -272,7 +272,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#one').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#one').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#one').style.color = "blue";
                 document.querySelector('#one').classList.add('fontstyle');
                 turn++;
@@ -282,7 +282,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#seven').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#seven').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#seven').style.color = "blue";
                 document.querySelector('#seven').classList.add('fontstyle');
                 turn++;
@@ -292,7 +292,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#three').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#three').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#three').style.color = "blue";
                 document.querySelector('#three').classList.add('fontstyle');
                 turn++;
@@ -302,7 +302,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#three').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#three').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#three').style.color = "blue";
                 document.querySelector('#three').classList.add('fontstyle');
                 turn++;
@@ -312,7 +312,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#one').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#one').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#one').style.color = "blue";
                 document.querySelector('#one').classList.add('fontstyle');
                 turn++;
@@ -322,7 +322,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#two').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#two').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#two').style.color = "blue";
                 document.querySelector('#two').classList.add('fontstyle');
                 turn++;
@@ -332,7 +332,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#six').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#six').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#six').style.color = "blue";
                 document.querySelector('#six').classList.add('fontstyle');
                 turn++;
@@ -342,7 +342,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#four').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#four').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#four').style.color = "blue";
                 document.querySelector('#four').classList.add('fontstyle');
                 turn++;
@@ -352,7 +352,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#five').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#five').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#five').style.color = "blue";
                 document.querySelector('#five').classList.add('fontstyle');
                 turn++;
@@ -362,7 +362,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#eight').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#eight').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#eight').style.color = "blue";
                 document.querySelector('#eight').classList.add('fontstyle');
                 turn++;
@@ -372,7 +372,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#four').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#four').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#four').style.color = "blue";
                 document.querySelector('#four').classList.add('fontstyle');
                 turn++;
@@ -382,7 +382,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#five').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#five').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#five').style.color = "blue";
                 document.querySelector('#five').classList.add('fontstyle');
                 turn++;
@@ -392,7 +392,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#six').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#six').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#six').style.color = "blue";
                 document.querySelector('#six').classList.add('fontstyle');
                 turn++;
@@ -402,7 +402,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#five').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#five').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#five').style.color = "blue";
                 document.querySelector('#five').classList.add('fontstyle');
                 turn++;
@@ -412,7 +412,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#five').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#five').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#five').style.color = "blue";
                 document.querySelector('#five').classList.add('fontstyle');
                 turn++;
@@ -422,7 +422,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#nine').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#nine').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#nine').style.color = "blue";
                 document.querySelector('#nine').classList.add('fontstyle');
                 turn++;
@@ -432,7 +432,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#seven').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#seven').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#seven').style.color = "blue";
                 document.querySelector('#seven').classList.add('fontstyle');
                 turn++;
@@ -442,7 +442,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#seven').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#seven').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#seven').style.color = "blue";
                 document.querySelector('#seven').classList.add('fontstyle');
                 turn++;
@@ -452,7 +452,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#one').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#one').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#one').style.color = "blue";
                 document.querySelector('#one').classList.add('fontstyle');
                 turn++;
@@ -462,7 +462,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#eight').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#eight').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#eight').style.color = "blue";
                 document.querySelector('#eight').classList.add('fontstyle');
                 turn++;
@@ -472,7 +472,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#two').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#two').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#two').style.color = "blue";
                 document.querySelector('#two').classList.add('fontstyle');
                 turn++;
@@ -482,7 +482,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#nine').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#nine').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#nine').style.color = "blue";
                 document.querySelector('#nine').classList.add('fontstyle');
                 turn++;
@@ -492,7 +492,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#three').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#three').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#three').style.color = "blue";
                 document.querySelector('#three').classList.add('fontstyle');
                 turn++;
@@ -502,7 +502,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#nine').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#nine').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#nine').style.color = "blue";
                 document.querySelector('#nine').classList.add('fontstyle');
                 turn++;
@@ -512,7 +512,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#one').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#one').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#one').style.color = "blue";
                 document.querySelector('#one').classList.add('fontstyle');
                 turn++;
@@ -522,7 +522,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#seven').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#seven').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#seven').style.color = "blue";
                 document.querySelector('#seven').classList.add('fontstyle');
                 turn++;
@@ -532,7 +532,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#three').style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#three').style.opacity = "1";
-                }, 500);
+                }, 300);
                 document.querySelector('#three').style.color = "blue";
                 document.querySelector('#three').classList.add('fontstyle');
                 turn++;
@@ -577,7 +577,7 @@ document.querySelector('.single').addEventListener('click', function () {
                 document.querySelector('#' + space).style.opacity = "0.8";
                 setTimeout(function () {
                     document.querySelector('#' + space).style.opacity = "1";
-                }, 500);
+                }, 300);
                 turn++;
             }
             var player1 = "You", player2 = "Computer";
@@ -610,7 +610,7 @@ document.querySelector('.multi').addEventListener('click', function () {
                         document.querySelector('#' + current).style.opacity = "0.8";
                         setTimeout(function () {
                             document.querySelector('#' + current).style.opacity = "1";
-                        }, 500);
+                        }, 300);
                         turn++;
                         GameStart();
 
